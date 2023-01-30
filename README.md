@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Gopi Lokindi 👋
 
 <!--
 **Gopilokindi/Gopilokindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+![]()
+```
+* currently -MS CS Student in Northwest Missouri State university
+* Previously-DC Analyst at Deloitte Consulting Private Limited.
+ 
+
