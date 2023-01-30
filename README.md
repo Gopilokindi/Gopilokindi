@@ -23,9 +23,11 @@ Here are some ideas to get you started:
         alt="Picture" 
         style="display: block; margin: 0 auto" />
 ---
-* currently -MS CS Student in Northwest Missouri State university
-* Previously-DC Analyst at Deloitte Consulting Private Limited.
-* I am interested in Python and SQL.
+* 🔭 currently -MS CS Student in Northwest Missouri State university
+* 🔭 Previously-DC Analyst at Deloitte Consulting Private Limited.
+* 🌱 I am interested in Python and SQL.
+* 📫 Email :<lokindigopi1503@gmail.com>
+* 💻 Think Twice Code Once!
 
 
  
