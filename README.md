@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```
-![]()
+![profile](tempsnip.png)
 ```
 * currently -MS CS Student in Northwest Missouri State university
 * Previously-DC Analyst at Deloitte Consulting Private Limited.
